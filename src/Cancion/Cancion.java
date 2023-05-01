@@ -6,6 +6,7 @@ public class Cancion {
     private String titulo;
     private String autor;
     private Scanner teclado;
+    private String s1;
 
     public Cancion(String titulo, String autor) {
         this.titulo = titulo;
